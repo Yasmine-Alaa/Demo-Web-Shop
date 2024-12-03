@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/yelsayed/IdeaProjects/DemoWebshop">
+        <classes>
+            <class name="BaseTest"></class>
+            <class name="RegisterTests"></class>
+            <class name="LoginTests"></class>
+            <class name="SearchTests"></class>
+            <class name="ShoppingCartTests"></class>
+        </classes>
+
+
+    </test>
+</suite>
